@@ -213,17 +213,18 @@ plt.show()
 
 ## Output:
 
-*i) Read and Display an Image. 
-![alt text](image.png) 
+- **Read and Display an Image**  
+  ![Original](image.png)
 
-*ii)Adjust Image Brightness.  
-![alt text](image-1.png)
+- **Adjust Image Brightness**  
+  ![Brightness](image-1.png)
 
-*iii) Modify Image Contrast.  
-![alt text](image-2.png)
+- **Modify Image Contrast**  
+  ![Contrast](image-2.png)
 
-*iv) Generate Third Image Using Bitwise Operations.
-![alt text](image-3.png)
+- **Generate Third Image Using Bitwise Operations**  
+  ![Bitwise](image-3.png)
+
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
